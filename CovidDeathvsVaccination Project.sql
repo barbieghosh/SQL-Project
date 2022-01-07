@@ -2,7 +2,7 @@
 ----From Select *
 --From PortfolioProject.dbo.CovidDeaths
 --order by 1,2
-----order by 1,2
+
 ----Select *
 ----From PortfolioProject.dbo.CovidVaccination
 ----order by 1,2
